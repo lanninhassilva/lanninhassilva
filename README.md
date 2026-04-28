@@ -15,7 +15,7 @@
 ## 💕 sobre mim
 
 * ☁️ gosto de coisas leves, organizadas e bonitas
-* 🎧 adoro estudar ouvindo música
+* 🎧 adoro estudar ouvindo música e bebendo um bom guaraná
 * 🌱 estou construindo minha base em programação
 
 ---
