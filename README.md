@@ -28,7 +28,7 @@
 
 ## 🎀 ୨୧ Olá, Mundo! (Biografia Completa)
 
-Sou graduanda em **Ciência da Computação** na Pontifícia Universidade Católica de Minas Gerais (**PUC Minas**), em Belo Horizonte. Atualmente atuo como **Google Student Ambassador (2026)**, membro ativa da comunidade **Elas++** e criadora de conteúdo voltado para estudos e tecnologia sob o perfil **`@dev_lanna`**.
+Sou graduanda em **Ciência da Computação** na Pontifícia Universidade Católica de Minas Gerais (**PUC Minas**), em Belo Horizonte. Atualmente atuo como **Google Student Ambassador (2026)**, membro ativa da comunidade **Elas++** e criadora de conteúdo voltado para estudos e tecnologia sob o perfil **`lannassilva`**.
 
 Minha trajetória acadêmica e profissional combina o rigor da engenharia de software (arquitetura, algoritmos e estruturas de dados em **Java** e **C**) com design de interfaces limpo, comunicação comunitária e projetos de impacto social real.
 
