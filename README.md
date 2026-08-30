@@ -138,9 +138,9 @@ Minha trajetória acadêmica e profissional combina o rigor da engenharia de sof
     └─────┬─────┘
           │
           ▼
-    ┌───────────┐
+    ┌─────────────┐
     │ Compartilhar│──► Mentoria comunitária & Google
-    └─────┬─────┘
+    └─────┬───────┘
           │
           └──────────► Repetir o Ciclo 🎀
 
