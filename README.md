@@ -14,7 +14,7 @@
 
 [![Google](https://img.shields.io/badge/Google-Student_Ambassador_2026-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/community)
 [![University](https://img.shields.io/badge/PUC_Minas-Ciência_da_Computação-ff9acb?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.pucminas.br/)
-[![Instagram](https://img.shields.io/badge/Instagram-@dev__lanna-E98AA9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lannassilva)
+[![Instagram](https://img.shields.io/badge/Instagram-@lannassilva-E98AA9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lannassilva)
 [![Location](https://img.shields.io/badge/Local-Belo_Horizonte,_MG-333333?style=for-the-badge&logo=google-maps&logoColor=E98AA9)](#)
 
 </div>
