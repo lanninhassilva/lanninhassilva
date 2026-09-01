@@ -8,7 +8,7 @@
 
 ### 🌷 `｡･:*˚:✧｡ embaixadora, desenvolvedora, pesquisadora & criadora ｡･:*˚:✧｡`
 
-`Google Student Ambassador` ✦ `Ciência da Computação @ PUC Minas` ✦ `Elas++` ✦ `Content Creator @dev_lanna`
+`Google Student Ambassador` ✦ `Ciência da Computação @ PUC Minas` ✦ `Elas++` ✦ `Content Creator @lannassilva`
 
 <br>
 
