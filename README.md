@@ -60,7 +60,7 @@ Minha trajetória acadêmica e profissional combina o rigor da engenharia de sof
 ### 🌸 Projetos de Pesquisa, Extensão & Experiência
 
 * **Competições de Programação:** Participante da temporada II do torneio **Codificadas**.
-* **Imersões Corporativas & Mentoria:** Participação em programas de aceleração e visitas técnicas aos centros de inovação (EY, EloGroup, SYDLE).
+* **Imersões Corporativas & Mentoria:** Participação em programas de aceleração e visitas técnicas aos centros de inovação (EloGroup, SYDLE, etc).
 
 ---
 
@@ -84,8 +84,7 @@ Minha trajetória acadêmica e profissional combina o rigor da engenharia de sof
 ╭─────────────────────────────────────────────────────────────────────────────────╮
 │ 🌷 Hub Educacional & UI Tech (@lannassilva)                                      │
 │ • Criação de frameworks visuais, carrosséis explicativos de lógica de código,  │
-│   materiais de apoio para calouros de computação e design minimalista/rosa.     │
-│ • Stack: Figma, Canva, Markdown, Visual Identity Guidelines                    │
+│   materiais de apoio para calouros de computação e design minimalista/rosa.     │                   
 ╰─────────────────────────────────────────────────────────────────────────────────╯
 
 ```
