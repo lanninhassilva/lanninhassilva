@@ -35,7 +35,7 @@ Minha trajetória acadêmica e profissional combina o rigor da engenharia de sof
 ```text
                ♡
         /￣￣￣￣￣￣￣\
-       |   Lanna.java   |
+       |   Lanna.java  |
         \＿＿＿＿＿＿＿/
                ♡
    estudar • construir • liderar • inspirar
