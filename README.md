@@ -2,8 +2,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="125">
-
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="125" alt="Kyubey">
 
 ### 🌷 `｡･:*˚:✧｡ embaixadora, desenvolvedora, pesquisadora & criadora ｡･:*˚:✧｡`
@@ -27,7 +25,7 @@
 
 ---
 
-## 🎀 ୨୧ Olá, Mundo! 
+## 🎀 ୨୧ Olá, Mundo!
 
 Sou graduanda em **Ciência da Computação** na Pontifícia Universidade Católica de Minas Gerais (**PUC Minas**), em Belo Horizonte. Atualmente atuo como **Google Student Ambassador (2026)**, integro a comunidade **Elas++** e crio conteúdos sobre tecnologia e estudos.
 
@@ -36,12 +34,12 @@ Minha trajetória combina desenvolvimento de software, inteligência artificial,
 Tenho especial interesse em conectar **tecnologia, pessoas e estratégia**, explorando como soluções digitais podem resolver problemas reais e gerar impacto.
 
 ```text
-              ♡
-       /￣￣￣￣￣￣￣\
-      |     Lanna     |
-       \＿＿＿＿＿＿＿/
-              ♡
-  estudar • construir • liderar • inspirar
+             ♡
+      /￣￣￣￣￣￣￣\
+     |     Lanna     |
+      \＿＿＿＿＿＿＿/
+             ♡
+ estudar • construir • liderar • inspirar
 ```
 
 ---
@@ -135,33 +133,60 @@ Atuei em diferentes frentes do desenvolvimento do SafeHer, contribuindo com:
 
 ## 💻 ୨୧ Portfólio de Projetos
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│ 🛡️ SafeHer — Plataforma de proteção para mulheres           │
-│                                                              │
-│ • Projeto premiado na PUC Minas — TI2 Back-end.              │
-│ • Relatos anônimos, avaliação de empresas e IA.              │
-│ • Stack: Azure AI, APIs e desenvolvimento Web.               │
-│                                                              │
-│ → github.com/lanninhassilva/SafeHer                           │
-╰──────────────────────────────────────────────────────────────╯
+### 🌺 Prompt Garden — Coleção de Prompts para Inteligência Artificial
 
-╭──────────────────────────────────────────────────────────────╮
-│ 🎀 AEDS II — Algoritmos e Estruturas de Dados                │
-│                                                              │
-│ • Listas, pilhas, filas, árvores, AVL e tabelas Hash.        │
-│ • Algoritmos de ordenação e análise assintótica.             │
-│ • Stack: Java, C, Makefile e Linux Shell.                    │
-╰──────────────────────────────────────────────────────────────╯
+<a href="https://github.com/lanninhassilva/Prompt-Garden">
+  <img src="https://img.shields.io/badge/🌷_PROMPT_GARDEN-EXPLORAR_REPOSITÓRIO-9D174D?style=for-the-badge&labelColor=FCE7F3" alt="Acessar Prompt Garden">
+</a>
 
-╭──────────────────────────────────────────────────────────────╮
-│ 🌷 Hub Educacional & UI Tech — @lannassilva                  │
-│                                                              │
-│ • Conteúdos visuais sobre programação e tecnologia.          │
-│ • Materiais de apoio para estudantes de computação.          │
-│ • Design de interfaces e comunicação digital.                │
-╰──────────────────────────────────────────────────────────────╯
-```
+Um portfólio pessoal de prompts desenvolvidos para explorar aplicações práticas de inteligência artificial, especialmente no ecossistema Google AI e Gemini.
+
+O projeto reúne instruções estruturadas para transformar ideias em soluções úteis, apoiar processos de aprendizagem, desenvolver projetos e melhorar a produtividade.
+
+**Áreas exploradas:**
+
+- 🎓 **Educação:** professores particulares com IA, simuladores de provas e mapas de conhecimento.
+- 💼 **Carreira:** estratégia profissional, posicionamento e storytelling.
+- 🎨 **Criatividade:** direção visual, geração de imagens e criação de carrosséis.
+- 💻 **Tecnologia:** arquitetura de aplicações e mentoria de programação.
+- ⚡ **Produtividade:** planejamento estratégico e organização de projetos.
+
+**Diferencial:** prompts organizados, documentados e estruturados para orientar a IA com contexto, objetivos, instruções, critérios de qualidade e formatos de entrega.
+
+**Tecnologias e ferramentas:** Gemini, Google AI e engenharia de prompts.
+
+<div align="center">
+
+[![Prompt Garden](https://img.shields.io/badge/Projeto-Prompt_Engineering-E98AA9?style=for-the-badge)](https://github.com/lanninhassilva/Prompt-Garden)
+[![Google AI](https://img.shields.io/badge/Google_AI-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
+
+</div>
+
+---
+
+### 🛡️ SafeHer — Plataforma de proteção para mulheres
+
+- Projeto premiado na PUC Minas — TI2 Back-end.
+- Relatos anônimos, avaliação de empresas e inteligência artificial.
+- Stack: Azure AI, APIs e desenvolvimento Web.
+
+→ [github.com/lanninhassilva/SafeHer](https://github.com/lanninhassilva/SafeHer)
+
+---
+
+### 🎀 AEDS II — Algoritmos e Estruturas de Dados
+
+- Listas, pilhas, filas, árvores, AVL e tabelas Hash.
+- Algoritmos de ordenação e análise assintótica.
+- Stack: Java, C, Makefile e Linux Shell.
+
+---
+
+### 🌷 Hub Educacional & UI Tech — @lannassilva
+
+- Conteúdos visuais sobre programação e tecnologia.
+- Materiais de apoio para estudantes de computação.
+- Design de interfaces e comunicação digital.
 
 ---
 
@@ -181,34 +206,34 @@ Atuei em diferentes frentes do desenvolvimento do SafeHer, contribuindo com:
 ## 🌸 ୨୧ O Workflow do Dev & Rotina de Aprendizado
 
 ```text
-         🌸
+        🌸
+        │
+        ▼
+   ┌───────────┐
+   │  Conceito │ ────► Estudo teórico & análise de casos
+   └─────┬─────┘
          │
          ▼
-    ┌───────────┐
-    │  Conceito │ ────► Estudo teórico & análise de casos
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │   Codar   │ <───┐
-    └─────┬─────┘     │
-          │           │
-          ▼           │
-    ┌───────────┐     │
-    │  Testar   │ ────┘
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │ Documentar│ ────► GitHub & @dev_lanna
-    └─────┬─────┘
-          │
-          ▼
-    ┌─────────────┐
-    │ Compartilhar│ ───► Comunidade & Google
-    └─────┬───────┘
-          │
-          └──────────► Repetir o ciclo 🎀
+   ┌───────────┐
+   │   Codar   │ <───┐
+   └─────┬─────┘     │
+         │           │
+         ▼           │
+   ┌───────────┐     │
+   │  Testar   │ ────┘
+   └─────┬─────┘
+         │
+         ▼
+   ┌───────────┐
+   │ Documentar│ ────► GitHub & @dev_lanna
+   └─────┬─────┘
+         │
+         ▼
+   ┌─────────────┐
+   │ Compartilhar│ ───► Comunidade & Google
+   └─────┬───────┘
+         │
+         └──────────► Repetir o ciclo 🎀
 ```
 
 ---
