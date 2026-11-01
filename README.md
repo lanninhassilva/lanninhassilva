@@ -1,10 +1,10 @@
-
-<div align="center">
-
+ <div align="center">
 
 <br>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="125">
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="125" alt="Kyubey">
 
 ### 🌷 `｡･:*˚:✧｡ embaixadora, desenvolvedora, pesquisadora & criadora ｡･:*˚:✧｡`
 
@@ -21,26 +21,91 @@
 
 ---
 
-> 🌸 **bem-vindo ao meu repositório central & portfólio digital** 🌸  
-> *onde tecnologia de ponta, persistência acadêmica e a estética tech-cozy se encontram* 🎀
+> 🌸 **Bem-vindo ao meu repositório central & portfólio digital!**
+>
+> *Onde tecnologia, criatividade, persistência acadêmica e a estética tech-cozy se encontram.* 🎀
 
 ---
 
-## 🎀 ୨୧ Olá, Mundo! (Biografia Completa)
+## 🎀 ୨୧ Olá, Mundo! 
 
-Sou graduanda em **Ciência da Computação** na Pontifícia Universidade Católica de Minas Gerais (**PUC Minas**), em Belo Horizonte. Atualmente atuo como **Google Student Ambassador (2026)**, membro ativa da comunidade **Elas++** e criadora de conteúdo voltado para estudos e tecnologia sob o perfil **`lannassilva`**.
+Sou graduanda em **Ciência da Computação** na Pontifícia Universidade Católica de Minas Gerais (**PUC Minas**), em Belo Horizonte. Atualmente atuo como **Google Student Ambassador (2026)**, integro a comunidade **Elas++** e crio conteúdos sobre tecnologia e estudos.
 
-Minha trajetória acadêmica e profissional combina o rigor da engenharia de software (arquitetura, algoritmos e estruturas de dados em **Java** e **C**) com design de interfaces limpo, comunicação comunitária e projetos de impacto social real.
+Minha trajetória combina desenvolvimento de software, inteligência artificial, experiência com projetos acadêmicos, comunicação e liderança de comunidades.
+
+Tenho especial interesse em conectar **tecnologia, pessoas e estratégia**, explorando como soluções digitais podem resolver problemas reais e gerar impacto.
 
 ```text
-               ♡
-        /￣￣￣￣￣￣￣\
-       |  Lanna.java   |
-        \＿＿＿＿＿＿＿/
-               ♡
-   estudar • construir • liderar • inspirar
-
+              ♡
+       /￣￣￣￣￣￣￣\
+      |     Lanna     |
+       \＿＿＿＿＿＿＿/
+              ♡
+  estudar • construir • liderar • inspirar
 ```
+
+---
+
+## 🏆 ୨୧ Projeto em Destaque — SafeHer
+
+<div align="center">
+
+<a href="https://github.com/lanninhassilva/SafeHer">
+  <img src="https://img.shields.io/badge/🌺_SAFEHER-VER_REPOSITÓRIO-9D174D?style=for-the-badge&labelColor=FCE7F3" alt="Conheça o SafeHer">
+</a>
+
+### 🛡️ SafeHer
+
+**Rede de Proteção e Avaliação de Empresas para Mulheres**
+
+*Tecnologia, inteligência artificial e impacto social em uma única solução.*
+
+<br>
+
+[![Award](https://img.shields.io/badge/🏆_MELHOR_TRABALHO-TI2_BACK--END-B8860B?style=for-the-badge)](https://github.com/lanninhassilva/SafeHer)
+[![Project](https://img.shields.io/badge/Projeto-Acadêmico-E98AA9?style=for-the-badge)](https://github.com/lanninhassilva/SafeHer)
+[![AI](https://img.shields.io/badge/Inteligência_Artificial-Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/lanninhassilva/SafeHer)
+
+</div>
+
+O **SafeHer** é uma plataforma digital desenvolvida para permitir que mulheres compartilhem relatos anônimos de assédio no ambiente profissional e avaliem empresas com base em experiências vividas.
+
+A proposta é transformar experiências individuais em conhecimento coletivo, contribuindo para decisões mais conscientes e ambientes de trabalho mais seguros.
+
+### ✨ Funcionalidades e diferenciais
+
+- 🕊️ Relatos anônimos de situações de assédio no ambiente profissional.
+- 🏢 Avaliação de empresas a partir das experiências compartilhadas.
+- 🎙️ Integração com inteligência artificial para transcrição de áudios.
+- ☁️ Utilização de recursos do Azure AI.
+- 🔗 Integração de APIs e desenvolvimento de funcionalidades web.
+- 🔐 Atenção à privacidade e ao tratamento responsável de informações.
+
+### 💗 Minha participação
+
+Atuei em diferentes frentes do desenvolvimento do SafeHer, contribuindo com:
+
+- Desenvolvimento de uma extensão para Google Chrome.
+- Integração de recursos e APIs.
+- Implementações e melhorias na experiência da plataforma.
+- Ajustes de front-end e refinamento de funcionalidades.
+- Contribuições para a estratégia e organização da solução.
+
+<div align="center">
+
+### 🏆 Reconhecimento — PUC Minas 2026/1
+
+**Vencedor de Melhor Trabalho Interdisciplinar II — Back-end**
+
+<a href="https://github.com/lanninhassilva/SafeHer">
+  <img src="https://img.shields.io/badge/CONHEÇA_O_PROJETO-ACESSAR_SAFEHER-9D174D?style=for-the-badge&logo=github&logoColor=white" alt="Acessar repositório SafeHer">
+</a>
+
+<br>
+
+*Por mulheres. Para mulheres. Por um futuro mais seguro.* 🌺
+
+</div>
 
 ---
 
@@ -48,66 +113,68 @@ Minha trajetória acadêmica e profissional combina o rigor da engenharia de sof
 
 ### 🌟 Google Student Ambassador (2026)
 
-* Representante oficial da rede de embaixadores acadêmicos do Google.
-* Organização de eventos, hackathons universitários e workshops sobre ferramentas em nuvem, IA e ecossistema para desenvolvedores.
-* Facilitação de acesso a capacitações e trilhas de desenvolvimento para estudantes da PUC Minas.
+- Representante da rede de embaixadores acadêmicos do Google.
+- Divulgação e incentivo ao uso de ferramentas de inteligência artificial no ambiente universitário.
+- Organização e participação em iniciativas, workshops e atividades de capacitação.
+- Facilitação do acesso de estudantes a recursos e oportunidades do ecossistema Google.
 
-### 🩷 Elas++ (Mulheres na Tecnologia)
+### 🩷 Elas++ — Mulheres na Tecnologia
 
-* Participação ativa na comunidade universitária voltada para atração, retenção e empoderamento de mulheres em cursos de computação e STEM.
-* Organização de iniciativas internas, grupos de estudo e eventos de acolhimento acadêmico.
+- Participação na comunidade universitária voltada à atração, retenção e empoderamento de mulheres em cursos de computação e STEM.
+- Atuação na equipe de parcerias, colaborando com empresas e instituições.
+- Participação na organização de eventos, palestras, workshops e iniciativas de desenvolvimento profissional.
+- Incentivo à participação feminina na tecnologia.
 
-### 🌸 Projetos de Pesquisa, Extensão & Experiência
+### 🌸 Projetos, Extensão & Experiência
 
-* **Competições de Programação:** Participante da temporada II do torneio **Codificadas**.
-* **Imersões Corporativas & Mentoria:** Participação em programas de aceleração e visitas técnicas aos centros de inovação (EloGroup, SYDLE, etc).
+- **Competições de Programação:** participação na temporada II do torneio Codificadas.
+- **Imersões Corporativas & Mentoria:** participação em programas de desenvolvimento, visitas técnicas e experiências com empresas como EloGroup e SYDLE.
+- **Criação de Conteúdo:** produção de materiais sobre tecnologia, estudos, inteligência artificial e vida universitária.
 
 ---
 
 ## 💻 ୨୧ Portfólio de Projetos
 
 ```text
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ 🛡️ SafeHer — Rede de Apoio e Proteção para Mulheres                             │
-│ • Sistema completo projetado com foco em segurança comunitária e avaliação      │
-│   de estabelecimentos/ambientes de risco.                                       │
-│ • Arquitetura modular, modelagem relacional e validação de requisitos.         │
-│ • Stack: Java, PostgreSQL, Git/GitHub, Maven, Frontend Web                     │
-╰─────────────────────────────────────────────────────────────────────────────────╯
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ 🎀 AEDS II — Algoritmos e Estruturas de Dados Avançadas                         │
-│ • Implementação do zero de estruturas lineares e não-lineares: Listas,         │
-│   Pilhas, Filas, Árvores Binárias de Busca, Árvores AVL e Tabelas Hash.        │
-│ • Algoritmos de ordenação (Quicksort, Mergesort, Heapsort) e análise assintótica│
-│ • Stack: Java, C, Makefile, Linux Shell                                        │
-╰─────────────────────────────────────────────────────────────────────────────────╯
-╭─────────────────────────────────────────────────────────────────────────────────╮
-│ 🌷 Hub Educacional & UI Tech (@lannassilva)                                      │
-│ • Criação de frameworks visuais, carrosséis explicativos de lógica de código,  │
-│   materiais de apoio para calouros de computação e design minimalista/rosa.     │                   
-╰─────────────────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│ 🛡️ SafeHer — Plataforma de proteção para mulheres           │
+│                                                              │
+│ • Projeto premiado na PUC Minas — TI2 Back-end.              │
+│ • Relatos anônimos, avaliação de empresas e IA.              │
+│ • Stack: Azure AI, APIs e desenvolvimento Web.               │
+│                                                              │
+│ → github.com/lanninhassilva/SafeHer                           │
+╰──────────────────────────────────────────────────────────────╯
 
+╭──────────────────────────────────────────────────────────────╮
+│ 🎀 AEDS II — Algoritmos e Estruturas de Dados                │
+│                                                              │
+│ • Listas, pilhas, filas, árvores, AVL e tabelas Hash.        │
+│ • Algoritmos de ordenação e análise assintótica.             │
+│ • Stack: Java, C, Makefile e Linux Shell.                    │
+╰──────────────────────────────────────────────────────────────╯
+
+╭──────────────────────────────────────────────────────────────╮
+│ 🌷 Hub Educacional & UI Tech — @lannassilva                  │
+│                                                              │
+│ • Conteúdos visuais sobre programação e tecnologia.          │
+│ • Materiais de apoio para estudantes de computação.          │
+│ • Design de interfaces e comunicação digital.                │
+╰──────────────────────────────────────────────────────────────╯
 ```
-
-
-## 🧸 ୨୧ Matriz de Habilidades & Status de Estudos
-
-| 🌸 Disciplina / Tópico | 💗 Nível | 🎀 Foco Atual |
-| --- | --- | --- |
-| **Java & Orientação a Objetos** | `████████░░` 80% | Padrões de Projeto & Modularização |
-| **Algoritmos & Estruturas de Dados** | `███████░░░` 70% | Otimização Assintótica ($O(n \log n)$) & Árvores |
-| **Linguagem C & Gerenciamento de Memória** | `██████░░░░` 60% | Ponteiros, Alocação Dinâmica & Structs |
-| **Bancos de Dados & SQL** | `███████░░░` 70% | Modelagem ER, Normalização & Queries Complexas |
-| **Administração de Sistemas Linux** | `██████░░░░` 60% | Scripts Shell, Permissões & Red Hat RH124 |
-| **Liderança Comunitária & Oratória** | `██████████` 100% | Gestão de Eventos Google & Redes Acadêmicas |
 
 ---
 
-## 📈 ୨୧ Métricas Dinâmicas & Contribution Stream
+## 🧸 ୨୧ Matriz de Habilidades & Estudos
 
-
-
-
+| 🌸 Disciplina / Tópico | 💗 Nível | 🎀 Foco atual |
+|---|---|---|
+| Java & Orientação a Objetos | `████████░░` 80% | Padrões e modularização |
+| Algoritmos & Estruturas de Dados | `███████░░░` 70% | Otimização e árvores |
+| Linguagem C & Memória | `██████░░░░` 60% | Ponteiros e alocação |
+| Bancos de Dados & SQL | `███████░░░` 70% | Modelagem e consultas |
+| Linux | `██████░░░░` 60% | Shell e administração |
+| Liderança & Comunicação | `██████████` 100% | Gestão de eventos e comunidades |
 
 ---
 
@@ -118,7 +185,7 @@ Minha trajetória acadêmica e profissional combina o rigor da engenharia de sof
          │
          ▼
     ┌───────────┐
-    │  Conceito │ ────► Estudo teórico & Análise de Casos
+    │  Conceito │ ────► Estudo teórico & análise de casos
     └─────┬─────┘
           │
           ▼
@@ -127,33 +194,36 @@ Minha trajetória acadêmica e profissional combina o rigor da engenharia de sof
     └─────┬─────┘     │
           │           │
           ▼           │
-    ┌───────────┐     │ (Refatorar & Corrigir Leaks)
+    ┌───────────┐     │
     │  Testar   │ ────┘
     └─────┬─────┘
           │
           ▼
     ┌───────────┐
-    │ Documentar│ ────► Notion, GitHub & @dev_lanna
+    │ Documentar│ ────► GitHub & @dev_lanna
     └─────┬─────┘
           │
           ▼
     ┌─────────────┐
-    │ Compartilhar│──► Mentoria comunitária & Google
+    │ Compartilhar│ ───► Comunidade & Google
     └─────┬───────┘
           │
-          └──────────► Repetir o Ciclo 🎀
-
+          └──────────► Repetir o ciclo 🎀
 ```
 
 ---
 
 ## 💌 ୨୧ Conecte-se Comigo
 
-Sinta-se à vontade para entrar em contato para falar sobre o **Google Ambassadors**, colaborações em projetos open-source, iniciativas de diversidade em tecnologia ou parcerias de conteúdo!
+Sinta-se à vontade para entrar em contato para conversar sobre inteligência artificial, Google Student Ambassadors, projetos de tecnologia, gestão de produto, iniciativas de diversidade ou oportunidades de colaboração.
 
+<div align="center">
 
+[![Instagram](https://img.shields.io/badge/Instagram-@lannassilva-E98AA9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lannassilva)
 
+[![GitHub](https://img.shields.io/badge/GitHub-lanninhassilva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lanninhassilva)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lanna_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ### 🌷 `while (learning && inspiring) {`
 
@@ -170,3 +240,5 @@ Sinta-se à vontade para entrar em contato para falar sobre o **Google Ambassado
 `coded with ♡, Java, caffeine & pink themes`
 
 ♡ ──────────────────────────────────────── ♡
+
+</div>
